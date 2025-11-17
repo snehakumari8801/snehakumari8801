@@ -14,9 +14,7 @@
 
 <br/>
 
-<p align="center">
-  <strong>Full-Stack Developer</strong> • Building national-scale dashboards for <strong>NDMA (Government of India)</strong>
-</p>
+
 
 <!-- Contact Badges -->
 <p align="center">
