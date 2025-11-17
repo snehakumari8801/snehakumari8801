@@ -1,99 +1,76 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Prateek Mishra</h1>
-<h3 align="center">🚀 A Passionate MERN Stack Developer from India 🇮🇳</h3>
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+# SNEHA KUMARI
+
+<img src="https://img.icons8.com/material-outlined/20/000000/phone.png" width="16"/> **+91-8826959208**  
+<img src="https://img.icons8.com/material-outlined/20/000000/email.png" width="16"/> **snehakumari8801@gmail.com**  
+[<img src="https://img.icons8.com/material-outlined/20/0A66C2/linkedin.png" width="16"/> **LinkedIn**](https://linkedin.com/in/your-linkedin)  
+[<img src="https://img.icons8.com/material-outlined/20/000000/github.png" width="16"/> **GitHub**](https://github.com/snehakumari8801)
+
 </div>
 
-<p align="center">
-<svg width="20px" height="20px" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M16 4H4c-1.101 0-2 .9-2 2v7c0 1.1.899 2 2 2h4l4 3v-3h4c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM6 10.6a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2zm4 0a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2zm4 0a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2z"/></svg>
-</p>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prateekmishraaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+## Professional Summary
+> I am a **MERN Stack Developer** with hands-on experience in building **national-scale dashboards** and **data-driven platforms**. My expertise lies in **React, Node.js, and MongoDB**, where I focus on **performance optimization** and delivering **clean UI/UX**. Through my project involvement, I have demonstrated the ability to **enhance user engagement** and **improve application functionality**, contributing positively to team objectives.
 
 ---
 
-## 👨‍💻 About Me
-
-- 🌱 Currently diving deeper into: **Prisma**, **Stripe.js**, **SvelteKit**
-- 💬 Ask me about: **React.js**, **Node.js**, **MongoDB**, **MySQL**
-- 🔭 Hosting experience with: **Hostinger**, **Render**, **Netlify**
-- 📫 Reach me at: **pm921670@gmail.com**
-- ⚡ Fun fact: *Code is my coffee ☕ and keyboard is my canvas 🎨*
+## Education
+**Indira Gandhi National Open University**  
+*B.Sc. General*  
+`2020 – 2024`  
+Delhi
 
 ---
 
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/prateek-mishra" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+## Experience
+**Govardhan Learning Cloud**  
+*Full Stack Developer* | `Nov 2024 – Present` | Full Time  
+- Worked with **HTML, CSS, JavaScript, React.js, Tailwind CSS, and Node.js**, gaining full-stack development experience.  
+- Built, enhanced, and maintained **responsive and dynamic web applications** with a focus on **clean UI** and **efficient backend API integration**.
 
 ---
 
-## 🧰 Languages & Tools
+## Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,js,html,css,tailwind,svelte,prisma,stripe,vercel,netlify" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prateekmishraaa&theme=dracula&margin-w=15&margin-h=15" alt="GitHub trophies" />
-</p>
+### National Disaster Management Authority (NDMA)  
+`HTML, CSS, JS, React.js, Tailwind CSS, Node.js, Express` | 2025  
+- Designed **multi-level dashboards** (State → District → Block → School) with filters to track school safety drills.  
+- Implemented a **UDISE-based school form** where entering a code auto-prefills school data from the database.  
+- Engineered a **role-based member assignment module** to manage state/district administrators.  
+- Created a **school submission form** that updates the dashboard in **real time**.  
+- Enabled NDMA to **monitor compliance**, **compare performance**, and **improve disaster preparedness**.  
+- Automated **email notifications** with **certificate generation** for schools upon successful drill completion.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekmishraaa&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekmishraaa&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekmishraaa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### Yuvamanthan  
+`HTML, CSS, JavaScript, React, Node.js, Express, MongoDB` | 2025  
+- Enhanced **UI/UX** for CAQM and Pledge Build, boosting **user engagement by 20%**.  
+- Developed **APIs** for efficient **CSV data validation**, processing over **10,000 records**.  
+- Built a **real-time chat module** with message tracking, accelerating internal communication.  
+- Delivered **full-stack features**, strengthening expertise in both frontend and backend development.
 
 ---
 
-## 🔥 Dev Energy
+## Technical Skills
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="250" alt="dev" />
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="250" alt="coding" />
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="250" alt="thinking" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="250" alt="workflow" />
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" alt="debugging" />
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" alt="API" />
-</p>
+**Languages:** JavaScript, HTML5, CSS3  
+**Frameworks:** React.js, Redux Toolkit, Tailwind CSS, Node.js, Express.js  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, REST APIs, Postman
 
 ---
 
-## 💡 Dev Quote
-
-> _"The best error message is the one that never shows up."_ – **Prateek Mishra**  
-> _"First, solve the problem. Then, write the code."_ – **Prateek Mishra**
+## Achievements
+- **Full Stack Developer**, Code Help, August 2024
 
 ---
 
-## 🚀 Let’s Build Something Great Together!
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0BKiaM2VGJ411fY4/giphy.gif" width="200" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=snehakumari8801&color=gray&style=flat)  
+[GitHub Followers](https://github.com/snehakumari8801)
+
+</div>
