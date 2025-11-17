@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner + Animated Name -->
-<img src="https://github.com/snehakumari8801/snehakumari8801/blob/main/assets/banner.png?raw=true" alt="Sneha Kumari - MERN Developer" width="100%"/>
+<img src="[https://github.com/snehakumari8801/snehakumari8801/blob/main/assets/banner.png?raw=true](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91%3A1)" alt="Sneha Kumari - MERN Developer" width="100%"/>
 
 <!-- Replace the above link with your own banner later (I'll give you free ones below) -->
 
