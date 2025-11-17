@@ -6,7 +6,6 @@
 <br/><br/>
 
 <!-- Profile Picture with Glow Border -->
-<img src="https://avatars.githubusercontent.com/u/155619394?v=4" width="130" style="border-radius:50%; border:6px solid #7B2CBF; box-shadow: 0 0 20px #7B2CBF;" />
 
 <br/><br/>
 
