@@ -10,7 +10,7 @@
 <br/><br/>
 
 <!-- Dynamic Typing Text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=4000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=700&lines=Sneha+Kumari;MERN+Stack+Developer+%F0%9F%94%A5;NDMA+Government+Project+%F0%9F%87%AE%F0%9F%87%B3;Building+the+Future+of+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=4000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=700&lines=Sneha+Kumari;MERN+Stack+Developer+%F0%9F%94%A5;+%F0%9F%87%AE%F0%9F%87%B3;Building+the+Future+of+India" alt="Typing SVG" />
 
 <br/>
 
