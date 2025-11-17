@@ -1,59 +1,63 @@
 <div align="center">
 
-<!-- Hero Banner + Animated Name -->
-<img src="[https://github.com/snehakumari8801/snehakumari8801/blob/main/assets/banner.png?raw=true](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91%3A1)" alt="Sneha Kumari - MERN Developer" width="100%"/>
-
-<!-- Replace the above link with your own banner later (I'll give you free ones below) -->
-
-<br/>
-
-<!-- Floating Avatar + Typing Effect -->
-<img src="https://avatars.githubusercontent.com/u/155619394?v=4" width="140" style="border-radius:50%; border:5px solid #0A66C2;"/>
+<!-- Your Exact Banner -->
+<img src="https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91%3A1" alt="Sneha Kumari - MERN Stack Developer" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Sneha+Kumari;MERN+Stack+Developer+%F0%9F%94%A5;Ex-NDMA+Govt+Project+%F0%9F%87%AE%F0%9F%87%B3;Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
+<!-- Profile Picture with Glow Border -->
+<img src="https://avatars.githubusercontent.com/u/155619394?v=4" width="130" style="border-radius:50%; border:6px solid #7B2CBF; box-shadow: 0 0 20px #7B2CBF;" />
+
+<br/><br/>
+
+<!-- Dynamic Typing Text -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=4000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=700&lines=Sneha+Kumari;MERN+Stack+Developer+%F0%9F%94%A5;NDMA+Government+Project+%F0%9F%87%AE%F0%9F%87%B3;Building+the+Future+of+India" alt="Typing SVG" />
 
 <br/>
 
-<p>
-  <strong>Full-Stack Developer</strong> • Currently building national-scale dashboards for the <strong>Government of India (NDMA)</strong> 
-  <img src="https://img.icons8.com/emoji/20/1ABC9C/india-flag.png"/>
+<p align="center">
+  <strong>Full-Stack Developer</strong> • Building national-scale dashboards for <strong>NDMA (Government of India)</strong>
 </p>
 
-<!-- Badges Row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-kumari-05137029a)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehakumari8801@gmail.com)
-[![Portfolio Views](https://komarev.com/ghpvc/?username=snehakumari8801&label=Profile%20Views&color=0A66C2&style=for-the-badge)](https://github.com/snehakumari8801)
-
-<br/><br/>
-
-<!-- Tech Stack with Glowing Icons -->
-<img src="https://skillicons.dev/icons?i=js,html,css,react,redux,tailwind,nodejs,express,mongodb,git,github,postman,vscode&perline=9&theme=dark" />
-
-<br/><br/>
-
-<!-- Stats Cards Side by Side -->
-<table><tr><td>
-<img src="https://github-readme-stats.vercel.app/api?username=snehakumari8801&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-</td><td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehakumari8801&theme=dracula&hide_border=true"/>
-</td></tr><tr><td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehakumari8801&layout=compact&theme=dracula&hide_border=true"/>
-</td></tr></table>
+<!-- Contact Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sneha-kumari-05137029a"><img src="https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:snehakumari8801@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=snehakumari8801&label=Profile%20Views&color=7B2CBF&style=for-the-badge" />
+</p>
 
 <br/>
 
-<!-- Trophy + Owl Sticker -->
-<img src="https://github-profile-trophy.vercel.app/?username=snehakumari8801&theme=dracula&no-frame=true&margin-w=15&row=1" />
-<br/>
-<img src="https://media.giphy.com/media/QaMcXSekUWx7aog7EY/giphy.gif" width="80"/>  <!-- Cute owl -->
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80"/>  <!-- Coding cat -->
+<!-- Tech Stack Icons (Purple Theme) -->
+<img src="https://skillicons.dev/icons?i=js,html,css,react,redux,tailwind,nodejs,express,mongodb,git,github,postman,vscode&perline=10&theme=dark" />
 
 <br/><br/>
 
-<!-- Quick Connect -->
-**Let's connect! I'm open to full-time roles & exciting projects**  
-<img src="https://media.giphy.com/media/WFZvB7VIXBgG3ea0Pq/giphy.gif" width="60"/>
+<!-- GitHub Stats + Streak + Top Languages -->
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=snehakumari8801&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=7B2CBF&icon_color=7B2CBF"/></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=snehakumari8801&theme=dracula&hide_border=true&background=0D1117&stroke=7B2CBF&ring=7B2CBF&currStreakLabel=7B2CBF"/></td>
+</tr></table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehakumari8801&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=7B2CBF"/>
+
+<br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=snehakumari8801&theme=dracula&no-frame=true&margin-w=15&row=1&column=7" />
+
+<br/><br/>
+
+<!-- Cute Stickers -->
+<img src="https://media.giphy.com/media/QaMcXSekUWx7aog7EY/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/LmNwrLVC9g5f7MD9n2/giphy.gif" width="100"/>
+
+<br/><br/>
+
+<p align="center">
+  <strong>Open to Full-Time Roles • Freelance • Open Source</strong><br/>
+  Let's build something amazing together!
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgG3ea0Pq/giphy.gif" width="60"/>
+</p>
 
 </div>
