@@ -1,84 +1,59 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sneha+Kumari;MERN+Stack+Developer+%F0%9F%94%A5;Building+National-Scale+Dashboards+%F0%9F%8C%9F" alt="Typing SVG" />
+<!-- Hero Banner + Animated Name -->
+<img src="https://github.com/snehakumari8801/snehakumari8801/blob/main/assets/banner.png?raw=true" alt="Sneha Kumari - MERN Developer" width="100%"/>
+
+<!-- Replace the above link with your own banner later (I'll give you free ones below) -->
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXg2Z3F2MjN5M3F1eGQyZ3F2MjN5M3F1eGQyZ3F2MjN5M3F1eGQyZ3F2MjN5M3F1eGQ/gjrYDwbJnKXHJIg39W/giphy.gif" width="200" />
+<!-- Floating Avatar + Typing Effect -->
+<img src="https://avatars.githubusercontent.com/u/155619394?v=4" width="140" style="border-radius:50%; border:5px solid #0A66C2;"/>
 
-```markdown
+<br/><br/>
 
-**🚀 Full-Stack Developer | React.js • Node.js • MongoDB | Turning Ideas into Impactful Apps**
-
-<img src="https://img.icons8.com/fluency/48/000000/india.png"/> **Delhi, India** •
-<img src="https://img.icons8.com/material-outlined/20/000000/phone.png"/> **+91-8826959208** •
-<img src="https://img.icons8.com/material-outlined/20/000000/email.png"/> **snehakumari8801@gmail.com**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Sneha+Kumari;MERN+Stack+Developer+%F0%9F%94%A5;Ex-NDMA+Govt+Project+%F0%9F%87%AE%F0%9F%87%B3;Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge)](https://github.com/snehakumari8801)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:snehakumari8801@gmail.com)
+<p>
+  <strong>Full-Stack Developer</strong> • Currently building national-scale dashboards for the <strong>Government of India (NDMA)</strong> 
+  <img src="https://img.icons8.com/emoji/20/1ABC9C/india-flag.png"/>
+</p>
+
+<!-- Badges Row -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-kumari-05137029a)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehakumari8801@gmail.com)
+[![Portfolio Views](https://komarev.com/ghpvc/?username=snehakumari8801&label=Profile%20Views&color=0A66C2&style=for-the-badge)](https://github.com/snehakumari8801)
+
+<br/><br/>
+
+<!-- Tech Stack with Glowing Icons -->
+<img src="https://skillicons.dev/icons?i=js,html,css,react,redux,tailwind,nodejs,express,mongodb,git,github,postman,vscode&perline=9&theme=dark" />
+
+<br/><br/>
+
+<!-- Stats Cards Side by Side -->
+<table><tr><td>
+<img src="https://github-readme-stats.vercel.app/api?username=snehakumari8801&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
+</td><td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehakumari8801&theme=dracula&hide_border=true"/>
+</td></tr><tr><td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehakumari8801&layout=compact&theme=dracula&hide_border=true"/>
+</td></tr></table>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=snehakumari8801&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/snehakumari8801?label=Follow&style=for-the-badge&color=0A66C2)
-![GitHub stars](https://img.shields.io/github/stars/snehakumari8801?label=Stars&style=for-the-badge&color=0A66C2)
+<!-- Trophy + Owl Sticker -->
+<img src="https://github-profile-trophy.vercel.app/?username=snehakumari8801&theme=dracula&no-frame=true&margin-w=15&row=1" />
+<br/>
+<img src="https://media.giphy.com/media/QaMcXSekUWx7aog7EY/giphy.gif" width="80"/>  <!-- Cute owl -->
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80"/>  <!-- Coding cat -->
+
+<br/><br/>
+
+<!-- Quick Connect -->
+**Let's connect! I'm open to full-time roles & exciting projects**  
+<img src="https://media.giphy.com/media/WFZvB7VIXBgG3ea0Pq/giphy.gif" width="60"/>
 
 </div>
-
----
-
-### 🔥 Professional Summary
-```markdown
-> Full-Stack MERN Developer passionate about building **national-scale dashboards** and **real-time data platforms**.  
-> Specialized in **React.js, Node.js, MongoDB** with a strong focus on **performance, clean UI/UX**, and **user engagement**.
-
-**Currently building disaster preparedness tools for NDMA (Government of India)** 🏛️🇮🇳
-
----
-
-### 🎓 Education
-**B.Sc. General**  
-Indira Gandhi National Open University • `2020 – 2024` • Delhi
-
----
-
-### 💼 Experience
-**Full Stack Developer** @ **Govardhan Learning Cloud**  
-`Nov 2024 – Present` • Full-Time 🏢  
-```markdown
-→ Building responsive & dynamic web apps with **React.js + Node.js + Tailwind**  
-→ Clean UI/UX • REST APIs • Real-time features
-
----
-
-### 🚀 Featured Projects
-
-#### 🏆 **National Disaster Management Authority (NDMA) Dashboard**  
-`React • Tailwind • Node.js • Express • Real-time Updates` • 2025  
-<img src="https://img.shields.io/badge/Government%20Project-Live%20with%20NDMA-0A66C2?style=for-the-badge" />
-
-- Multi-level dashboard: **State → District → Block → School** 🗺️
-- UDISE auto-fill + Real-time drill tracking ⏱️
-- Role-based admin system & automated **certificate + email** on completion 🎖️
-- Helping NDMA monitor nationwide school safety compliance 🇮🇳
-
-#### 🌱 **Yuvamanthan Model United Nations Platform**  
-`MERN Stack • Real-time Chat • CSV Processing` • 2025  
-<img src="https://img.shields.io/badge/20%25+User%20Engagement%20Boost-success?style=for-the-badge" />
-
-- Improved UI/UX → **20% increase in user engagement** 📈
-- Built real-time chat & processed **10,000+ CSV records** ⚡
-- Full-stack features for CAQM & Pledge modules
-
----
-
-### 🛠️ Tech Stack & Tools
-
-```text
-Frontend   : React.js • Redux Toolkit • Tailwind CSS • HTML5 • CSS3 • JavaScript(ES6+)
-Backend    : Node.js • Express.js
-Database   : MongoDB • Mongoose
-Tools      : Git • GitHub • Postman • REST APIs • VS Code
